@@ -54,14 +54,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 
+![image](https://github.com/user-attachments/assets/a50b3979-2d89-418a-ad34-0b3f0b91a05c)
+
+
 
 ![image](https://github.com/user-attachments/assets/f79eee55-9f6c-406d-bdaf-ca5e25de1441)
 
 
+![image](https://github.com/user-attachments/assets/aee6d6e3-bc49-4b2c-8287-f795fad58d04)
+
+
+![image](https://github.com/user-attachments/assets/55558877-8bdc-4488-ae9c-ae51b1360853)
 
 
 
-
+![image](https://github.com/user-attachments/assets/2e5476fc-95e4-469b-9b28-f3ec9b642e95)
 
 
 
