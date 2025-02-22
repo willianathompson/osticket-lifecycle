@@ -81,7 +81,19 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A new ticket was successfully created through the support portal after a customer inquiry was submitted. The system automatically generated a unique ticket ID and categorized it according to predefined settings for the appropriate department and issue type. (Tickets may be submitted by a member of the support team if the customer calls in or is unable to submit the ticket themself.)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>The ticket was assigned to the correct agent based on its category and department. This assignment was handled both manually and through automatic rules set within the osTicket system.
+
+</p>
+<br />
+The assigned agent reviewed the ticket, engaged with the customer to gather necessary information, and began troubleshooting the issue. The agent provided initial solutions and escalated the ticket to a higher support tier for further assistance.
+  
 </p>
 <br />
 
@@ -89,14 +101,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The issue was resolved after collaboration with the customer, and the solution was confirmed. The agent marked the ticket as resolved, notifying the customer of the successful resolution and awaiting their confirmation.
 </p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Upon confirmation from the customer that the issue was resolved, the ticket was officially closed. A final resolution summary was documented, and the ticket was archived in the system for reference and reporting.
