@@ -31,44 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 
-![image](https://github.com/user-attachments/assets/03e37dbd-04f1-4b6f-8a2c-d67647dd1b9b)
 
-
-
-![image](https://github.com/user-attachments/assets/4855ef1c-bd07-4318-8f6c-7806314ba22a)
-
-
-
-![image](https://github.com/user-attachments/assets/2a778e4b-3cff-4c2e-ba91-a91c133d0cc5)
-
-
-
-![image](https://github.com/user-attachments/assets/ebd9ae3d-33a6-4b34-b6b4-49d2e2f99a8f)
-
-
-
-![image](https://github.com/user-attachments/assets/d0e95ef9-6851-40fe-8fe4-4c9a9c40e3d5)
-
-
-![image](https://github.com/user-attachments/assets/c869bfe9-4c80-4f8d-81bb-6641a7aad0c6)
-
-
-
-![image](https://github.com/user-attachments/assets/a50b3979-2d89-418a-ad34-0b3f0b91a05c)
-
-
-
-![image](https://github.com/user-attachments/assets/f79eee55-9f6c-406d-bdaf-ca5e25de1441)
-
-
-![image](https://github.com/user-attachments/assets/aee6d6e3-bc49-4b2c-8287-f795fad58d04)
-
-
-![image](https://github.com/user-attachments/assets/55558877-8bdc-4488-ae9c-ae51b1360853)
-
-
-
-![image](https://github.com/user-attachments/assets/2e5476fc-95e4-469b-9b28-f3ec9b642e95)
 
 
 
@@ -78,7 +41,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/56e848ca-d84c-4c78-a19f-ac5ace130b05)
+![image](https://github.com/user-attachments/assets/008afaf2-e598-454e-9358-cc05bf6bd1a2)
+
 </p>
 <p>
 A new ticket was successfully created through the support portal after a customer inquiry was submitted. The system automatically generated a unique ticket ID and categorized it according to predefined settings for the appropriate department and issue type. (Tickets may be submitted by a member of the support team if the customer calls in or is unable to submit the ticket themself.)
@@ -86,19 +52,30 @@ A new ticket was successfully created through the support portal after a custome
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/c563c8fe-8230-4b3c-bf8f-77df200d6514)
+
 </p>
-<p>The ticket was assigned to the correct agent based on its category and department. This assignment was handled both manually and through automatic rules set within the osTicket system.
+<p>
+The ticket was assigned to the correct agent based on its category and department. This assignment was handled both manually and through automatic rules set within the osTicket system.
 
 </p>
 <br />
+
+![image](https://github.com/user-attachments/assets/3278b4ce-7b90-4bac-a1e1-855deb0bf477)
+![image](https://github.com/user-attachments/assets/3d986930-a346-46e6-bd73-62db01482099)
+
 The assigned agent reviewed the ticket, engaged with the customer to gather necessary information, and began troubleshooting the issue. The agent provided initial solutions and escalated the ticket to a higher support tier for further assistance.
   
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+![image](https://github.com/user-attachments/assets/f668b6e3-51fb-4524-8917-c20b810f4aae)
+![image](https://github.com/user-attachments/assets/fae1d475-3b24-402f-aaaf-d5b61b03e990)
+
 </p>
 <p>
 The issue was resolved after collaboration with the customer, and the solution was confirmed. The agent marked the ticket as resolved, notifying the customer of the successful resolution and awaiting their confirmation.
