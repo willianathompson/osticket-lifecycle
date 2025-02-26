@@ -38,7 +38,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
   
-<h>A new ticket was successfully created through the support portal after a customer submitted an inquiry. The system automatically assigned a unique ticket ID and sorted it into the right category based on the department and issue type. (If a customer calls in or can't submit a ticket themselves, a support team member can create the ticket on their behalf.)</h2>
+<h2>A new ticket was successfully created through the support portal after a customer submitted an inquiry. The system automatically assigned a unique ticket ID and sorted it into the right category based on the department and issue type. (If a customer calls in or can't submit a ticket themselves, a support team member can create the ticket on their behalf.)</h2>
 </p>
 <br />
 
