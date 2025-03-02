@@ -95,7 +95,7 @@ The issue is resolved after working with the customer, and the solution is confi
 
 </p>
 <p>
-Once the customer confirms that the issue is fixed, the ticket is officially closed. A summary of the resolution is written, and the ticket is archived in the system for future reference and reporting.
+Once the customer confirms that the issue is fixed, the ticket is officially closed.
   
 </p>
 <br />
