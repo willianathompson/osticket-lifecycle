@@ -25,8 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-
-<p>
+<h4>Intake</h4>
   
 ![image](https://github.com/user-attachments/assets/56e848ca-d84c-4c78-a19f-ac5ace130b05)
 ![image](https://github.com/user-attachments/assets/008afaf2-e598-454e-9358-cc05bf6bd1a2)
@@ -39,7 +38,7 @@ A new ticket was successfully created through the support portal after a custome
 </p>
 <br />
 
-<p>
+<h4>Assignment and Communication</h4>
   
 ![image](https://github.com/user-attachments/assets/c563c8fe-8230-4b3c-bf8f-77df200d6514)
 
@@ -50,6 +49,7 @@ The ticket was assigned to the right agent based on its category and department.
 
 </p>
 <br />
+<h4>Working the Issue</h4>
 
 ![image](https://github.com/user-attachments/assets/3278b4ce-7b90-4bac-a1e1-855deb0bf477)
 ![image](https://github.com/user-attachments/assets/3d986930-a346-46e6-bd73-62db01482099)
@@ -60,6 +60,7 @@ The assigned agent reviewed the ticket, contacted the customer to gather more de
 <br />
 
 <p>
+<h4>Resolution</h4>
 
 ![image](https://github.com/user-attachments/assets/f668b6e3-51fb-4524-8917-c20b810f4aae)
 ![image](https://github.com/user-attachments/assets/fae1d475-3b24-402f-aaaf-d5b61b03e990)
