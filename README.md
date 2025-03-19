@@ -39,7 +39,8 @@ A new ticket is created through the support portal after a customer submits an i
 
 </p>
 <p>
-The system automatically assigns a unique ticket ID and sorts it into the right category based on the department and issue type. (If a customer calls in or can't submit a ticket themselves, a support team member can create the ticket on their behalf.)
+  
+The system automatically assigns a unique ticket ID and sorts it into the right category based on the department and issue type. *(If a customer calls in or can't submit a ticket themselves, a support team member can create the ticket on their behalf.)*
 
 </p>
 <p>
